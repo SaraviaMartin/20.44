@@ -6,7 +6,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/metal-perforacion-maquina-industrial.jpg');
+		$(".banner-image").backstretch('images/metal-perforacion-maquina-industrial-min.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
